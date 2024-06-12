@@ -1,0 +1,2 @@
+asn1==2.5.0
+pywin32==306 # optional if sid is specified manually
